@@ -18,3 +18,9 @@ I'm Simon, a 19 years old Software Engineer student working as a full stack web 
 - [farahsimon22@gmail.com](mailto:farahsimon22@gmail.com)
 - [@simonfarah\_](https://instagram.com/simonfarah_/) on Instagram
 - [@simonfarah](https://t.me/simonfarah/) on Telegram
+
+## Support
+
+<a href="https://www.buymeacoffee.com/simonfarah/">
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="40" width="168" alt="simonfarah" />
+</a>
