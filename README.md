@@ -1,3 +1,3 @@
 <samp>
-  releasing more bugs into the wild
+  🐛 releasing more bugs into the wild
 </samp>
